@@ -2,7 +2,7 @@
   <h1 align="center">Olá, sou o <a href="https://www.linkedin.com/in/jeremias-naves-de-freitas-545255201"><i>Jeremias Naves de Freitas</i></a> </h1>
   <p align="center">Estudo Ciência da Computação no IFTM(Campus Ituiutaba)</p>
   <p></p>
-  <p>Sou desenvolvedor Front-End e Designer Web/UI/UX, possuo interesse e habilidades com as linguagens JavaScript, TypeScript, Python, além de HTML e CSS. Possuo experiências com os frameworks Vue.JS, React, Angular, Django e Flask</p>
+  <p>Sou desenvolvedor Front-End e Designer Web/UI/UX, possuo interesse e habilidades com as linguagens JavaScript, TypeScript, Python, além de HTML e CSS. Possuo experiências com os frameworks Vue.JS, React, Angular, Django e Flask.</p>
 </div>
 
 <div align="center" valign="top"><br>
