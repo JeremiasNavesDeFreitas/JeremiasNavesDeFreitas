@@ -5,6 +5,12 @@
   <p>Sou desenvolvedor Front-End e Designer Web/UI/UX, possuo interesse e habilidades com as linguagens JavaScript, TypeScript, Python, além de HTML e CSS. Possuo experiências com os frameworks Vue.JS, React, Angular, Django e Flask.</p>
 </div>
 
+<div align="center">
+  <a href="https://github.com/GabiQueiroz26">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JeremiasNavesDeFreitas&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremiasNavesDeFreitas&layout=compact&langs_count=7&theme=onedark"/>
+</div>
+
 <div align="center" valign="top"><br>
   <h1 align="center">Linguagens e tecnologias que normalmente desenvolvo:</i></a> </h1>
   <img align="center" alt="Vue" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png">
