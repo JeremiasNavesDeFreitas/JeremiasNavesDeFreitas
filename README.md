@@ -19,7 +19,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="python" height="30" width="40" src="https://escoladigital-production-storage.s3.amazonaws.com/uploads/images/original/20201103113533.png">
+  <img align="center" alt="python" height="30" width="40" src="[https://escoladigital-production-storage.s3.amazonaws.com/uploads/images/original/20201103113533.png](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png)">
   <img align="center" alt="java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   <img align="center" alt="c" height="30" width="30" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png">
   <img align="center" alt="SQL" height="60" width="70" src="https://logospng.org/download/mysql/mysql-2048.png">
