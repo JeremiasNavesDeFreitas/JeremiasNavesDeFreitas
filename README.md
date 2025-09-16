@@ -20,7 +20,6 @@
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="python" height="40" width="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
   <img align="center" alt="java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
-  <img align="center" alt="c" height="30" width="30" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png">
   <img align="center" alt="SQL" height="60" width="70" src="https://logospng.org/download/mysql/mysql-2048.png">
   <img align="center" alt="godot" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png">
 </div><br>
