@@ -1,39 +1,109 @@
-<div>
-  <h1 align="center">Olá, sou <a href="https://www.linkedin.com/in/jeremias-naves-de-freitas-545255201"><i>Jeremias Naves de Freitas</i></a> </h1>
-  <p align="center">Estudo Ciência da Computação no IFTM(Campus Ituiutaba)</p>
-  <p></p>
-  <p>Sou desenvolvedor Front-End e Designer Web/UI/UX, possuo interesse e habilidades com as linguagens JavaScript, TypeScript, Python, além de HTML e CSS. Possuo experiências com os frameworks Vue.JS, React, Angular, Django e Flask.</p>
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   > Initializing profile...                                  ║
+║   > Loading developer: Jeremias Naves de Freitas            ║
+║   > Status: Building cool stuff ✦                           ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
 </div>
 
 <div align="center">
-  <a href="https://github.com/JeremiasNavesDeFreitas">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremiasNavesDeFreitas&layout=compact&langs_count=7&theme=onedark"/>
+
+# `< Jeremias Naves de Freitas />`
+
+### Full Stack Developer · IT Developer Operation · UI/UX Enthusiast
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeremias_Freitas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremias-naves-de-freitas-545255201)
+[![GitHub](https://img.shields.io/badge/GitHub-JeremiasNavesDeFreitas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeremiasNavesDeFreitas)
+
 </div>
 
-<div align="center" valign="top"><br>
-  <h1 align="center">Linguagens e tecnologias que normalmente desenvolvo:</i></a> </h1>
-  <img align="center" alt="Vue" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="python" height="40" width="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
-  <img align="center" alt="java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
-  <img align="center" alt="SQL" height="60" width="70" src="https://logospng.org/download/mysql/mysql-2048.png">
-  <img align="center" alt="godot" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png">
-</div><br>
+---
+
+## 👾 Sobre mim
+
+```yaml
+name:       Jeremias Naves de Freitas
+education:  Ciência da Computação @ IFTM — Campus Ituiutaba
+focus:      Full Stack & UI/UX Design
+currently:  Explorando novas tecnologias e construindo interfaces incríveis
+interests:
+  - Interfaces modernas e acessíveis
+  - Design de sistemas e experiência do usuário
+  - Banco de Dados
+  - Desenvolvimento de jogos com Godot
+  - Open Source
+```
+
+---
+
+## 🛠️ Stack Tecnológica
+
+### 🌐 Front-End
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🔧 Back-End & Outros
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎮 Ferramentas & Ambiente
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jeremias-naves-de-freitas-545255201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=JeremiasNavesDeFreitas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremiasNavesDeFreitas&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 <div align="center">
-  
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JeremiasNavesDeFreitas&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
+---
+
+## 🐍 Contribuições
+
 <div align="center">
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+
+![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Vamos nos conectar!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremias-naves-de-freitas-545255201)
+
+---
+
+*"Código limpo, design inteligente, experiências memoráveis."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=JeremiasNavesDeFreitas&color=blueviolet&style=for-the-badge&label=Visitantes)
+
 </div>
